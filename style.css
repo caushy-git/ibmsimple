@@ -1,0 +1,91 @@
+div {
+	border: 10px solid black;
+	border-radius: 40px;
+	padding: 0px;
+	width: 40%;
+	padding: 0;
+	position: relative;
+	left: 28%;
+	font-weight: bold;
+	background-color: white;
+}
+/*#colori{
+	background-color: black;
+	color:gray;
+	display:inline;
+	
+}*/
+h1 {
+	position: relative;
+	left: 10%;
+	font-size: 45px;
+	color: gray;
+	font-family: Verdana;
+}
+form {
+	position: relative;
+	left: 30%;
+	width: 50%;
+	font-family: arial;
+}
+p {
+	position: relative;
+	left: 0;
+	display: inline;
+	font-weight: bold;
+	bottom: 15px;
+}
+input {
+	position: relative;
+	left: 20%;
+	width: 30%;
+}
+#interest {
+	top: 7px;
+	left: 11%;
+}
+#trythis {
+	position: relative;
+	left: 13%;
+}
+#years {
+	position: relative;
+	left: 24%;
+}
+#everyone {
+	position: relative;
+	left: -20%;
+}
+#color_interest {
+	background-color: yellow;
+	font-weight: bold;
+}
+#inputhit {
+	left: 0;
+	width: 40%;
+	font-weight: bold;
+}
+#color_amountbefore {
+	background-color: yellow;
+	font-weight: bold;
+}
+#color_time {
+	background-color: yellow;
+	font-weight: bold;
+}
+#color_total {
+	background-color: yellow;
+	font-weight: bold;
+}
+#inputhit:hover {
+	background-image: linear-gradient(to top, yellow, rgba(255, 0, 0, 0.5));
+}
+section {
+	position: relative;
+	left: -50%;
+	bottom: 0px;
+	font-size: 20px;
+}
+body {
+	background-color: black;
+}
